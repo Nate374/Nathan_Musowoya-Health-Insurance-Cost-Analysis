@@ -8,5 +8,5 @@ I found that the best model for predicting health insurance costs was linear reg
 
 The following factors were important predictors of health insurance costs: age, sex, weight, BMI, number of dependents, smoking status, blood pressure, diabetes, exercise habits, job profile, location, and hereditary diseases.
 
-Overall, this document shows that data mining techniques can be used to accurately predict health insurance costs. This information could be useful for insurance companies to set premiums and for individuals to understand their own health insurance costs.
+Overall, this report shows that data mining techniques can be used to accurately predict health insurance costs. This information could be useful for insurance companies to set premiums and for individuals to understand their own health insurance costs.
 
